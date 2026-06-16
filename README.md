@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou Thiago Osório 👋
 
-<!--
-**thiagosorio/thiagosorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou em transição para desenvolvimento web, com foco em front-end.
 
-Here are some ideas to get you started:
+Atualmente estudo e desenvolvo projetos com **HTML**, **CSS** e **JavaScript**, buscando consolidar fundamentos de estruturação de páginas, responsividade, criação de interfaces e organização de código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Também utilizo **Git** e **GitHub** para versionamento e documentação dos meus projetos.
+
+## Tecnologias em estudo e prática
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- Responsividade
+
+## Momento atual
+
+No momento, estou organizando meus repositórios, revisando projetos práticos e construindo um portfólio voltado para oportunidades iniciais em desenvolvimento front-end e criação de interfaces web.
+
+## Contato
+
+- LinkedIn: [linkedin.com/in/thiagosorio](https://www.linkedin.com/in/thiagosorio)
