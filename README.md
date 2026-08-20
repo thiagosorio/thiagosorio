@@ -2,7 +2,7 @@
 
 Estou em transição para desenvolvimento web, com foco em front-end e criação de interfaces responsivas.
 
-Tenho maior domínio em **HTML**, **CSS** e **responsividade** e venho consolidando minha prática em **JavaScript** por meio de projetos. Também utilizo **Git* e **GitHub** para versionamento e organização do desenvolvimento.
+Tenho maior domínio em **HTML**, **CSS** e **responsividade** e venho consolidando minha prática em **JavaScript** por meio de projetos. Também utilizo **Git** e **GitHub** para versionamento e organização do desenvolvimento.
 
 ## Tecnologias em estudo e prática
 
