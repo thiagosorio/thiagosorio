@@ -1,23 +1,16 @@
-# Olá, eu sou Thiago Osório 👋
+# Thiago Osório | Front-end em formação
 
-Estou em transição para desenvolvimento web, com foco em front-end.
+Estou em transição para desenvolvimento web, com foco em front-end e criação de interfaces responsivas.
 
-Atualmente estudo e desenvolvo projetos com **HTML**, **CSS** e **JavaScript**, buscando consolidar fundamentos de estruturação de páginas, responsividade, criação de interfaces e organização de código.
-
-Também utilizo **Git** e **GitHub** para versionamento e documentação dos meus projetos.
+Tenho maior domínio em **HTML**, **CSS** e **responsividade** e venho consolidando minha prática em **JavaScript** por meio de projetos. Também utilizo **Git* e **GitHub** para versionamento e organização do desenvolvimento.
 
 ## Tecnologias em estudo e prática
 
-- HTML
-- CSS
-- JavaScript
-- Git
-- GitHub
-- Responsividade
+HTML · CSS · SCSS · JavaScript · Git · GitHub
 
 ## Momento atual
 
-No momento, estou organizando meus repositórios, revisando projetos práticos e construindo um portfólio voltado para oportunidades iniciais em desenvolvimento front-end e criação de interfaces web.
+Atualmente estou aprofundando JavaScript, revisando fundamentos de front-end e desenvolvendo projetos voltados à construção do meu portfólio e à entrada profissional na área de tecnologia.
 
 ## Contato
 
